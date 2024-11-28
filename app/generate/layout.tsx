@@ -14,7 +14,7 @@ function Header() {
         <div className="flex items-center space-x-4">
           <Link
             href="https://nebius.com/studio/inference?utm_medium=cpc&utm_source=crazyCoder&utm_campaign=Network_en_all_lgen_inference_cloud&utm_term=crazyCoder"
-            className="text-sm font-medium text-gray-700 hover:text-gray-900"
+            className="text-sm invisible md:visible font-medium text-gray-700 hover:text-gray-900"
             target='_blank'
           >
             Built with ❤️ using Nebius
