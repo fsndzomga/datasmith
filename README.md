@@ -1,54 +1,50 @@
-Here’s the updated **README** with the requested changes:
+# DATASMITH 🚀
+
+![Demo of DATASMITH](public/opengraph-image.png)
+
+Built with ❤️ using [Nebius](https://nebius.com/studio/inference?utm_medium=cpc&utm_source=dataSmith&utm_campaign=Network_en_all_lgen_inference_cloud&utm_term=dataSmith)
 
 ---
 
-# CRAZY CODER 🚀
-
-![Demo of CRAZY CODER](public/opengraph-image.png)
-
-Built with ❤️ using [Nebius](https://nebius.com/studio/inference?utm_medium=cpc&utm_source=crazyCoder&utm_campaign=Network_en_all_lgen_inference_cloud&utm_term=crazyCoder)
-
----
-
-**CRAZY CODER** is the hottest new way to write code! With the power of open-source AI models and the simplicity of natural language, you can go from idea to implementation in seconds.
+**DATASMITH** is your ultimate tool for synthetic data generation! With the power of open-source AI models and a user-friendly interface, you can generate high-quality data for machine learning, testing, and beyond in just a few clicks.
 
 ---
 
 ## 🌟 Key Features
 
-### 🔥 **The Hottest Programming Language is English**
-Write your ideas, pseudo-code, or simple instructions in English, and let the AI do the rest. Forget syntax and debugging headaches—focus on what matters: your creativity.
+### 🔥 **Generate Synthetic Data Effortlessly**
+Describe your data requirements in natural language or JSON schema, and let **DataSmith** do the rest. No more manual creation—focus on using the data, not making it.
 
-### ⚡ **Code Fast Now**
-No need to learn complex languages or frameworks. Get your program up and running in seconds using powerful open-source AI models like **Qwen**, **Llama**, **Mixtral**, and more.
+### ⚡ **Scale Quickly**
+Generate data at scale using powerful open-source AI models like **Qwen**, **Llama**, and others. Whether you need a few records or millions, **DataSmith** has you covered.
 
 ---
 
 ## 🌐 Leverage Open Source
 
-- **Powerful Models**: Utilize cutting-edge coding models like **Qwen-2.5-Coder-32B**, which rivals GPT-4 in performance.
-- **Open for All**: These models are available to everyone for rapid prototyping and development.
+- **Cutting-Edge Models**: Utilize models like **Qwen-2.5-Coder-32B**, offering state-of-the-art performance for synthetic data generation.
+- **Accessible to Everyone**: Open source and ready for developers, researchers, and enterprises alike.
 
 ---
 
 ## 🎨 Experiment Freely
-Harness the power of the **Nebius AI Studio** to experiment with different models at **low cost**. Create, test, and refine your applications in a flexible environment.
+Harness the **Nebius AI Studio** to experiment with models at a **low cost**. Test diverse scenarios, handle imbalanced datasets, and ensure data quality with ease.
 
-🔗 Learn more about Nebius AI Studio [here](https://nebius.com/studio/inference?utm_medium=cpc&utm_source=crazyCoder&utm_campaign=Network_en_all_lgen_inference_cloud&utm_term=crazyCoder).
+🔗 Learn more about Nebius AI Studio [here](https://nebius.com/studio/inference?utm_medium=cpc&utm_source=dataSmith&utm_campaign=Network_en_all_lgen_inference_cloud&utm_term=dataSmith).
 
 ---
 
 ## 💡 Want to Replicate This App?
-The **CRAZY CODER** project is open source!
-You can clone the repository and deploy it easily to **Vercel** or your favorite platform.
+The **DataSmith** project is open source!
+You can clone the repository and deploy it easily to **Vercel** or your preferred platform.
 
 ### 🚀 View the Code on GitHub
-- [Clone the repository](#) and start building today!
+- [Clone the repository](https://github.com/fsndzomga/datasmith) and start generating your own synthetic data today!
 
 ---
 
-### ✨ Build Your Next Big Idea with CRAZY CODER!
-With **Nebius** and cutting-edge open-source models, the possibilities are endless. Start coding smarter, faster, and more creatively than ever before.
+### ✨ Build Smarter with DataSmith!
+Empower your machine learning workflows and application testing with high-quality synthetic data, all backed by **Nebius** and open-source innovation.
 
 ---
 
