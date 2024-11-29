@@ -23,7 +23,7 @@ function Header() {
             href="/generate"
             className="bg-black hover:bg-gray-800 text-white text-sm px-4 py-2 rounded-full"
           >
-            Code
+            Generate
           </Link>
         </div>
       </div>
